@@ -1,6 +1,8 @@
 # Solder
 This is my first ever solder project and my first time making a PCB. I followed the beginner tutorial and used EasyEDA to make it.
 
+EDIT: After getting advice in slack, I added a photoresistor with another LED and I added silkscreen on the back. Hopefully it is now better!
+
 Slack username: @Ventengo
 
 BOM:
